@@ -1,5 +1,7 @@
-### Hi there 👋
-
+Emmanuel Carter ecarter2@waketech.edu
+The account was really easy to make 
+by clicking the + icon you are able to create a repository
+While using the app I clicked on the file tab and was able to clone the repository and store it in my folders
 <!--
 **tyrekcarter/TyrekCarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
